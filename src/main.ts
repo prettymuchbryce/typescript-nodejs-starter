@@ -1,10 +1,5 @@
 ///<reference path="../node-definitions/node.d.ts" />
  
-/**
-* See the node.js TypeScript definition needed for this
-* example here: https://github.com/borisyankov/DefinitelyTyped
-*/
- 
 import Http = require('http');
  
 class MyServer {
